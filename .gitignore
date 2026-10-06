@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+.next/
+out/
+
+# Env
+.env*.local
+
+# Mac
+.DS_Store
+._*
